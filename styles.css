@@ -23,6 +23,11 @@ header {
   margin-bottom: 30px;
 }
 
+h4 {
+  color: transparent;
+  font-size: 10px;
+  margin-bottom: -17px;
+}
 
 h1 {
   color: #1d4ed8;
